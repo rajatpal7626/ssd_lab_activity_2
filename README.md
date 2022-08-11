@@ -5,10 +5,12 @@ SSD Lab Activity 2
 
     Open terminal and go to the repository where q1.sh exists.
     type following command
-    ./q1.sh filename
+    
+        ./q1.sh filename
 
 2) Execute q2.sh as follow:
 
     Open terminal and go to the repository where q1.sh exists.
     type following command
-    ./q2.sh
+    
+         ./q2.sh
